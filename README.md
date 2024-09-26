@@ -15,21 +15,27 @@ Este projeto foi construído com **React** utilizando **Vite**, **styled-compone
 
 **SignIn**
 
+![signin-image]
 
 **SignUp**
 
+![signup-image]
 
 **Home**
 
+![home-image]
 
 **Perfil**
 
+![profile-image]
 
 **Note Preview**
 
+![note-preview-image]
 
 **Note Create**
 
+![note-create-image]
 
 ### Como Configurar
 
@@ -55,6 +61,9 @@ Este projeto foi construído com **React** utilizando **Vite**, **styled-compone
 [Vite Badge]: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge
 
 <!-- Images -->
-[hero-image]: /asserts/hero.jpeg
-[tela-jogo-image]: /asserts/tela-jogo.jpeg
-[tela-fim-jogo-imagem]: /asserts/tela-fim-jogo.jpeg
+[home-image]: /images/home.jpeg
+[note-create-image]: /images/note-create.jpeg
+[note-preview-image]: /images/note-preview.jpeg
+[profile-image]: /images/profile.jpeg
+[signin-image]: /images/SignIn.jpeg
+[signup-image]: /images/SignUp.jpeg
