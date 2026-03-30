@@ -2,7 +2,7 @@
 
 Este projeto foi construído com **React** utilizando **Vite**, **styled-components** e navegação com **React Router**. Foram criados páginas de signIn, signUp, home, perfil, note create e note preview. Trata-se de um projeto em que você pode criar notas sobre suas tecnologias favoritas.
 
-### Constrído com
+### Construído com
 
 ![visual-studio-code]
 ![JavaScript Badge]
